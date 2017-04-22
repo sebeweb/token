@@ -1,0 +1,19 @@
+{
+  "name": "token",
+  "version": "0.0.1",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "sebastien",
+  "contributors": [],
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "4.13.3",
+    "jsonwebtoken": "^7.3.0",
+    "sqlite": "^2.5.0"
+  }
+}
